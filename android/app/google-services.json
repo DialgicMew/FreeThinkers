@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747911046751",
+    "project_id": "free-thinkers-b4d20",
+    "storage_bucket": "free-thinkers-b4d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747911046751:android:8f7aa669700010afcf9dea",
+        "android_client_info": {
+          "package_name": "com.example.FreeThinkers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747911046751-qnu4mmfajuonpcas321c00pdvug3o8jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FreeThinkers",
+            "certificate_hash": "6d79a68bd9d4c2b877d9669098a0bdf74ece49d9"
+          }
+        },
+        {
+          "client_id": "747911046751-eod2gjva37cchh0adgdda8kl3velm7pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOS21BMJ7-H3JG_VdgSIRL2eUxny7hTVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747911046751-eod2gjva37cchh0adgdda8kl3velm7pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
